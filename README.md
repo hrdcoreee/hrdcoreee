@@ -13,5 +13,5 @@ I love tinkering with hardware, using AI to bring my stupid ideas to life and ma
 ## Links & Contacts
 
 - ✈️ **Telegram:** [@hrdcoreee](https://t.me/hrdcoreee)
-- ⭕ **osu! profile** [gewwet](https://osu.ppy.sh/users/36319988)
+- ⭕ **osu! profile:** [gewwet](https://osu.ppy.sh/users/36319988)
 
